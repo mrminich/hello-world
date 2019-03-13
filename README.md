@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Humans!
+Hello.
 
-Minich here, I like Java and Python.
-I've had tacos on the moon and find them far superior to Earth tacos.
+Minnich here, I like Java and Python.
+Ive had tacos on Earth, nothings better then this.
