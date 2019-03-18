@@ -2,5 +2,5 @@
 
 Hello.
 
-Minnich here, I like Java and Python.
-Ive had tacos on Earth, nothings better then this.
+Minich here, I'm currently teaching Java and Python.
+I've had tacos on Earth, nothing's better then this.
